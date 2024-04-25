@@ -31,7 +31,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    'zoe-fs9yc.ondigitalocean.app'
+    'zoe-fs9yc.ondigitalocean.app',
+    'www.zoedatahubgh.com'
 ]
 
 
